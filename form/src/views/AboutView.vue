@@ -18,6 +18,7 @@
 
     ```
     <html class="h-full bg-white">
+      k
     <body class="h-full">
     ```
   -->
